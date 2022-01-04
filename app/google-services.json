@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99788805925",
+    "firebase_url": "https://applicationexaman-default-rtdb.firebaseio.com",
+    "project_id": "applicationexaman",
+    "storage_bucket": "applicationexaman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99788805925:android:6bf431ce7195cbcef1accc",
+        "android_client_info": {
+          "package_name": "com.example.applicationtp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99788805925-dfqfuf27k771do196o14r36ps79l5hqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOF0SVPLQbD_NfUDTts-RHxPDgCPELlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99788805925-dfqfuf27k771do196o14r36ps79l5hqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
